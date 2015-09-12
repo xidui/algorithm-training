@@ -1,9 +1,9 @@
 class Solution {
 public:
-	// my solution runs for 12ms
-	// add the following two lines at the beginning, it will run for 8ms
-	// if(NULL == l1) return l2;
-	// if(NULL == l2) return l1;
+    // my solution runs for 12ms
+    // add the following two lines at the beginning, it will run for 8ms
+    // if(NULL == l1) return l2;
+    // if(NULL == l2) return l1;
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         ListNode *head = new ListNode(0);
         ListNode *ptr = head;
