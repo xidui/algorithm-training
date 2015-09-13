@@ -8,5 +8,5 @@ Problem Id | Title | Difficulty | C++
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Easy | [C++](https://github.com/xidui/algorithm-training/blob/master/leetcode/ZigZag%20Conversion/solution.cpp)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [C++](https://github.com/xidui/algorithm-training/blob/master/leetcode/Merge%20Two%20Sorted%20Lists/solution.cpp)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [C++](https://github.com/xidui/algorithm-training/blob/master/leetcode/Merge%20k%20Sorted%20Lists/solution.cpp)
-67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [JavaScript]()
+67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [JavaScript](https://github.com/xidui/algorithm-training/blob/master/leetcode/Add%20Binary/solution.js)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | [JavaScript](https://github.com/xidui/algorithm-training/blob/master/leetcode/Missing%20Number/solution.js)
