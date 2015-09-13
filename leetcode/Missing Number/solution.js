@@ -18,14 +18,14 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
-	var len = nums.length
-	var i=len
-	var res = 0
-	while(i--){
-	    res+=nums[i]
-	}
-	
-	return (len+len*len)/2 - res
+    var len = nums.length
+    var i=len
+    var res = 0
+    while(i--){
+        res+=nums[i]
+    }
+    
+    return (len+len*len)/2 - res
 };
 
 /* forEach版 － 136ms */
@@ -34,12 +34,12 @@ var missingNumber = function(nums) {
  * @return {number}
  */
 var missingNumber = function(nums) {
-	var len = nums.length
-	var res = 0
-	nums.forEach(function(n, i){
-		res+=n
-	})
-	return (len+len*len)/2 - res
+    var len = nums.length
+    var res = 0
+    nums.forEach(function(n, i){
+        res+=n
+    })
+    return (len+len*len)/2 - res
 };
 
 /* for版 － 148ms */
@@ -48,13 +48,13 @@ var missingNumber = function(nums) {
  * @return {number}
  */
 var missingNumber = function(nums) {
-	var len = nums.length
-	var res = 0
-	for(var i=0;i<len;i++){
-	    res+=nums[i]
-	}
-	
-	return (len+len*len)/2 - res
+    var len = nums.length
+    var res = 0
+    for(var i=0;i<len;i++){
+        res+=nums[i]
+    }
+    
+    return (len+len*len)/2 - res
 };
 
 /* reduce一句话求和版 － 164ms */
@@ -63,6 +63,6 @@ var missingNumber = function(nums) {
  * @return {number}
  */
 var missingNumber = function(nums) {
-	var len = nums.length
-	return (len+len*len)/2 - nums.reduce(function(pv,cv){return pv+cv}, 0)
+    var len = nums.length
+    return (len+len*len)/2 - nums.reduce(function(pv,cv){return pv+cv}, 0)
 };
