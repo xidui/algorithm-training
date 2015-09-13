@@ -1,18 +1,15 @@
 
 /**
 * #268 Missing Number
-* 其实是十分水一道题，但不知道为什么标记为Medium
-* 题意是给出一组[1, n]的数，但是会挖去其中一个
-* 求出挖去的是哪一个数
-* 那么只要对输入的数组求和，再用SUM(1,n)减去所得的和即是缺少的数
+* This Problem is simple enough for a Medium
 *
-* 但对JS不同的几种实现方式做了一些尝试
-* 可见while和forEach性能都比for循环要高一些
-* Array对象提供的reduce方法则性能一般
-* 最后我做的136ms在js实现里排在前17% 不知道哪里还可以继续优化
+* I tried several ways to make it runs faster
+* In a word, `while` and `forEach` performs better than `for`
+* Still, the solution runs slower than 16% people
+* How did they optimized
 */
 
-/* while版 － 136ms */
+/* implements in while － 136ms */
 /**
  * @param {number[]} nums
  * @return {number}
@@ -28,7 +25,7 @@ var missingNumber = function(nums) {
     return (len+len*len)/2 - res
 };
 
-/* forEach版 － 136ms */
+/* implements in forEach － 136ms */
 /**
  * @param {number[]} nums
  * @return {number}
@@ -42,7 +39,7 @@ var missingNumber = function(nums) {
     return (len+len*len)/2 - res
 };
 
-/* for版 － 148ms */
+/* implements in for － 148ms */
 /**
  * @param {number[]} nums
  * @return {number}
@@ -57,7 +54,7 @@ var missingNumber = function(nums) {
     return (len+len*len)/2 - res
 };
 
-/* reduce一句话求和版 － 164ms */
+/* implements in reduce － 164ms */
 /**
  * @param {number[]} nums
  * @return {number}
