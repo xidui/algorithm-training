@@ -11,3 +11,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](https://github.com/xidui/algorithm-training/blob/master/leetcode/Merge%20k%20Sorted%20Lists/solution.cpp)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | | [✓](https://github.com/xidui/algorithm-training/blob/master/leetcode/Add%20Binary/solution.js)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](https://github.com/xidui/algorithm-training/blob/master/leetcode/Missing%20Number/solution.js)
+279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](https://github.com/xidui/algorithm-training/blob/master/leetcode/Perfect%20Squares/solution.cpp)
