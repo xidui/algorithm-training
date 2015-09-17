@@ -65,7 +65,7 @@ var twoSum = function(nums, target) {
  * @date: 2015.6.4
  **/
 
-// Runtime: 140ms
+// Runtime: 116ms
 
 var twoSum = function(nums, target) {
     var i, j, num, hash = {};
@@ -81,5 +81,4 @@ var twoSum = function(nums, target) {
         }
     }
     return [-1, -1];
-    //
 };
