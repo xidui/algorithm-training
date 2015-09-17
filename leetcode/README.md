@@ -13,5 +13,6 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [✓](./Merge%20Two%20Sorted%20Lists/solution.cpp)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./Merge%20k%20Sorted%20Lists/solution.cpp)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | | [✓](./Add%20Binary/solution.js)
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Medium | [✓](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
