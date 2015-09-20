@@ -15,6 +15,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | | [✓](./Divide%20Two%20Integers/solution.js)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | | [✓](./Add%20Binary/solution.js)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Medium | | [✓](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)
+139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | [✓](./Word%20Break/solution.js)
 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | | [✓](./Sort%20List/solution.js)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
