@@ -10,7 +10,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Easy | [✓](./ZigZag%20Conversion/solution.cpp)
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [✓](./Palidrome%20Number/solution.cpp) | [✓](./Palidrome%20Number/solution.js)
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [✓](./Regular%20Expression%20Matching/solution.cpp)
-17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | | [✓](./Letter%20Combinations%20of%20a%20Phone%20Number/solution.js)
+17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [✓](./Letter%20Combinations%20of%20a%20Phone%20Number/solution.cpp) | [✓](./Letter%20Combinations%20of%20a%20Phone%20Number/solution.js)
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [✓](./Merge%20Two%20Sorted%20Lists/solution.cpp)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./Merge%20k%20Sorted%20Lists/solution.cpp)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | | [✓](./Divide%20Two%20Integers/solution.js)
