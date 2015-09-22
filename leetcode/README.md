@@ -14,6 +14,8 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [✓](./Merge%20Two%20Sorted%20Lists/solution.cpp)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./Merge%20k%20Sorted%20Lists/solution.cpp)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | | [✓](./Divide%20Two%20Integers/solution.js)
+51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [✓](./N-Queens/solution.cpp)
+52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [✓](./N-Queens%20II/solution.cpp)
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | | [✓](./Unique%20Paths/solution.js)
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | | [✓](./Unique%20Paths%20II/solution.js)
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | | [✓](./Add%20Binary/solution.js)
