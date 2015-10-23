@@ -26,6 +26,6 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | [✓](./Word%20Break/solution.js)
 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | | [✓](./Sort%20List/solution.js)
 198 | [House Robber](https://leetcode.com/problems/house-robber/)| Easy | | [✓](./House%20Robber/solution.js)
-205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [✓](./Isomorphic%20Strings/solution.js)
+205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [✓](./Isomorphic%20Strings/solution.cpp)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
