@@ -22,6 +22,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stars/) | Easy | | [✓](./Climbing%20Stairs/solution.js)
 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Hard | [✓](./Recover%20Binary%20Search%20Tree/solution.cpp)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Medium | | [✓](./Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [✓](./Valid%20Palindrome/solution.cpp)
 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Hard | [✓](./Copy%20List%20with%20Random%20Pointer/solution.cpp)
 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | [✓](./Word%20Break/solution.js)
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [✓](./Binary%20Tree%20Preorder%20Traversal/solution.cpp)
