@@ -37,3 +37,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Easy | [✓](./Bulls%20and%20Cows/solution.cpp)
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [✓](./Longest%20Increasing%20Subsequence/solution.cpp)
