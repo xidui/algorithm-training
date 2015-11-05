@@ -19,7 +19,7 @@ var longestPalindrome = function(s) {
   
   // Manacher's Algorithm
   
-  // Justify if {string} s is totally palindrome string
+  // Justify if {string} s is a complete palindromic string
   var i
     , len = Math.floor(s.length / 2) + 1
     , isTotalPalindrome = true
