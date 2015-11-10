@@ -1,5 +1,5 @@
-// 60ms
-// almost the same solution with #102
+# 60ms
+# almost the same solution with #102
 class Solution(object):
     def levelOrderBottom(self, root):
         """

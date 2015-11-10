@@ -1,5 +1,5 @@
-// 64ms
-// long and ugly
+# 64ms
+# long and ugly
 class Solution(object):
     def levelOrder(self, root):
         """
@@ -22,8 +22,8 @@ class Solution(object):
             a = c
         return ret
 
-// 64ms
-// beautiful solution
+# 64ms
+# beautiful solution
 class Solution(object):
     def levelOrder(self, root):
         """
