@@ -45,3 +45,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [✓](./Game%20of%20Life/solution.cpp)
 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Easy | [✓](./Bulls%20and%20Cows/solution.cpp)
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [✓](./Longest%20Increasing%20Subsequence/solution.cpp)
+304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [✓](./Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)
