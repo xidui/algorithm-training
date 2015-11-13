@@ -33,6 +33,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | | [✓](./Word%20Break/solution.js)
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [✓](./Binary%20Tree%20Preorder%20Traversal/solution.cpp)
 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Hard | [✓](./Binary%20Tree%20Postorder%20Traversal/solution.cpp)
+146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hard | [✓](./LRU%20Cache/solution.cpp) | | | [✓](./LRU%20Cache/solution.py)
 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | | [✓](./Sort%20List/solution.js)
 198 | [House Robber](https://leetcode.com/problems/house-robber/)| Easy | | [✓](./House%20Robber/solution.js)
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [✓](./Isomorphic%20Strings/solution.cpp)
