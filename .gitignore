@@ -1,2 +1,6 @@
+# JetBrain Family configuration
 .idea
+
+# Visual Studio Code config
 .vscode
+jsconfig.json
