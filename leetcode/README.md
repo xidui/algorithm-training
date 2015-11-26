@@ -56,3 +56,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | [✓](./Remove%20Invalid%20Parentheses/solution.cpp)
 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [✓](./Range%20Sum%20Query%202D%20-%20Immutable/solution.cpp)
 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [✓](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/solution.cpp)
+310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [✓](./Minimum%20Height%20Trees/solution.cpp)
