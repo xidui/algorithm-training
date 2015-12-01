@@ -19,7 +19,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [✓](./Letter%20Combinations%20of%20a%20Phone%20Number/solution.cpp) | [✓](./Letter%20Combinations%20of%20a%20Phone%20Number/solution.js)
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Easy | | [✓](./Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | | [✓](./Valid%20Parentheses/solution.js)
-21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [✓](./Merge%20Two%20Sorted%20Lists/solution.cpp)
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [✓](./Merge%20Two%20Sorted%20Lists/solution.cpp) | [✓](./Merge%20Two%20Sorted%20Lists/solution.js)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./Merge%20k%20Sorted%20Lists/solution.cpp)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | | [✓](./Divide%20Two%20Integers/solution.js)
 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Medium | [✓](./Search%20for%20a%20Range/solution.cpp)
