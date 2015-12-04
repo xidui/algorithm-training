@@ -49,6 +49,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [✓](./Isomorphic%20Strings/solution.cpp)
 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | [✓](./Word%20Search%20II/solution.cpp)
 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | [✓](./Shortest%20Palindrome/solution.cpp)
+237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [✓](./Delete%20Node%20in%20a%20Linked%20List/solution.cpp) | | [✓](./Delete%20Node%20in%20a%20Linked%20List/solution.java) | [✓](./Delete%20Node%20in%20a%20Linked%20List/solution.py) |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [✓](./Valid%20Anagram/solution.cpp)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](./H-Index/solution.cpp)
