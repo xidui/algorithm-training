@@ -67,3 +67,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [✓](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/solution.cpp)
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [✓](./Minimum%20Height%20Trees/solution.cpp)
 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Medium | [✓](./Burst%20Balloons/solution.cpp)
+315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.cpp)
