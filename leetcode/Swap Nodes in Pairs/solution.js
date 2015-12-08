@@ -4,7 +4,7 @@
  * @author: Jerry Zou
  * @email: jerry.zry@outlook.com
  * 
- * Runtime: 160ms
+ * Runtime: 160ms | 2015.12.8 16:17 GMT+08
  * Beats 46.88% JS submissions
  */
 
