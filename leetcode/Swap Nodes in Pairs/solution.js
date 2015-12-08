@@ -1,0 +1,40 @@
+/**********
+ * Swap Nodes in Pairs
+ * https://leetcode.com/problems/swap-nodes-in-pairs/
+ * @author: Jerry Zou
+ * @email: jerry.zry@outlook.com
+ * 
+ * Runtime: 160ms
+ * Beats 46.88% JS submissions
+ */
+
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
+var swapPairs = function(head) {
+  'use strict'
+  
+  let nextNode
+    , fakeHead = new ListNode()
+    , cursor = fakeHead
+  
+  fakeHead.next = head
+  
+  while (cursor.next && cursor.next.next) {
+    nextNode = cursor.next
+    cursor.next = nextNode.next
+    nextNode.next = nextNode.next.next
+    cursor.next.next = nextNode
+    cursor = nextNode
+  }
+  
+  return fakeHead.next
+}
