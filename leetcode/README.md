@@ -68,3 +68,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [✓](./Minimum%20Height%20Trees/solution.cpp)
 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Medium | [✓](./Burst%20Balloons/solution.cpp)
 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.cpp) | | | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.py)
+316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [Remove Duplicate Letters](./Remove%20Duplicate%20Letters/solution.cpp)
