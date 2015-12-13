@@ -53,6 +53,8 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | [✓](./Shortest%20Palindrome/solution.cpp)
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [✓](./Delete%20Node%20in%20a%20Linked%20List/solution.cpp) | | [✓](./Delete%20Node%20in%20a%20Linked%20List/solution.java) | [✓](./Delete%20Node%20in%20a%20Linked%20List/solution.py) |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [✓](./Valid%20Anagram/solution.cpp)
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [✓](./Ugly%20Number/solution.cpp)
+264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [✓](./Ugly%20Number%20II/solution.cpp)
 268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](./H-Index/solution.cpp)
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
@@ -67,5 +69,6 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [✓](./Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/solution.cpp)
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [✓](./Minimum%20Height%20Trees/solution.cpp)
 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Medium | [✓](./Burst%20Balloons/solution.cpp)
+313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | Medium | [✓](./Super%20Ugly%20Number/solution.cpp)
 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.cpp) | | | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.py)
 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [✓](./Remove%20Duplicate%20Letters/solution.cpp)
