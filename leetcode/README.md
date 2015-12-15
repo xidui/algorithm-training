@@ -23,6 +23,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [✓](./Merge%20k%20Sorted%20Lists/solution.cpp) | [✓](./Merge%20k%20Sorted%20Lists/solution.js)
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | | [✓](./Swap%20Nodes%20in%20Pairs/solution.js)
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | | [✓](./Remove%20Duplicates%20from%20Sorted%20Array/solution.js)
+27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | | [✓](./Remove%20Element/solution.js)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | | [✓](./Divide%20Two%20Integers/solution.js)
 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Medium | [✓](./Search%20for%20a%20Range/solution.cpp)
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | | | | [✓](./First%20Missing%20Positive/solution.py)
