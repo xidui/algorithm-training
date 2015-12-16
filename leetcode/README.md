@@ -74,3 +74,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | Medium | [✓](./Super%20Ugly%20Number/solution.cpp)
 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.cpp) | | | [✓](./Count%20of%20Smaller%20Numbers%20After%20Self/solution.py)
 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [✓](./Remove%20Duplicate%20Letters/solution.cpp)
+318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | Medium | [✓](./Maximum%20Product%20of%20Word%20Lengths/solution.cpp)
