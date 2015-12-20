@@ -27,6 +27,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | Easy | | [✓](./Implement%20strStr/solution.js)
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | | [✓](./Divide%20Two%20Integers/solution.js)
 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Medium | [✓](./Search%20for%20a%20Range/solution.cpp) | [✓](./Search%20for%20a%20Range/solution.js)
+36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Easy | | [✓](./Valid%20Sudoku/solution.js)
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | | | | [✓](./First%20Missing%20Positive/solution.py)
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [✓](./N-Queens/solution.cpp)
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [✓](./N-Queens%20II/solution.cpp)
