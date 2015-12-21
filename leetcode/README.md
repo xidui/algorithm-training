@@ -58,7 +58,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [✓](./Valid%20Anagram/solution.cpp)
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | [✓](./Ugly%20Number/solution.cpp)
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [✓](./Ugly%20Number%20II/solution.cpp)
-268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | | [✓](./Missing%20Number/solution.js)
+268 | [Missing Number](https://leetcode.com/problems/missing-number/)| Medium | [✓](./Missing%20Number/solution.cpp) | [✓](./Missing%20Number/solution.js)
 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [✓](./H-Index/solution.cpp)
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Hard | [✓](./Find%20the%20Duplicate%20Number/solution.cpp) | | | [✓](./Find%20the%20Duplicate%20Number/solution.py)
