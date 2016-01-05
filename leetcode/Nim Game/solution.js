@@ -3,9 +3,6 @@
  * https://leetcode.com/problems/nim-game/
  * @author: Jerry Zou
  * @email: jerry.zry@outlook.com
- * 
- * Runtime: 156ms | 2015.12.1 15:42 GMT+08
- * Beats 26.47% JS submissions
  */
 
 /**
