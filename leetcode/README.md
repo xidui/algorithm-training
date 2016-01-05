@@ -63,6 +63,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [✓](./Perfect%20Squares/solution.cpp)
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Hard | [✓](./Find%20the%20Duplicate%20Number/solution.cpp) | | | [✓](./Find%20the%20Duplicate%20Number/solution.py)
 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [✓](./Game%20of%20Life/solution.cpp)
+292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | | [✓](./Nim%20Game/solution.js)
 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [✓](./Find%20Median%20from%20Data%20Stream/solution.cpp)
 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | Easy | [✓](./Bulls%20and%20Cows/solution.cpp)
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [✓](./Longest%20Increasing%20Subsequence/solution.cpp)
