@@ -1,0 +1,1 @@
+{"id":"56","name":"Merge Intervals","link":"/problems/merge-intervals/","ac":"24.0%","difficulty":"Hard","description":"<p>Given a collection of intervals, merge all overlapping intervals.</p><p>\r\nFor example,<br>\r\nGiven <code>[1,3],[2,6],[8,10],[15,18]</code>,<br>\r\nreturn <code>[1,6],[8,10],[15,18]</code>.\r\n</p>"}

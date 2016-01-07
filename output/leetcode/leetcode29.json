@@ -1,0 +1,1 @@
+{"id":"29","name":"Divide Two Integers","link":"/problems/divide-two-integers/","ac":"15.3%","difficulty":"Medium","description":"<p>\r\nDivide two integers without using multiplication, division and mod operator.\r\n</p><p>\r\nIf it is overflow, return MAX_INT.\r\n</p>"}

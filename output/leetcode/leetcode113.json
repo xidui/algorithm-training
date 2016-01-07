@@ -1,0 +1,1 @@
+{"id":"113","name":"Path Sum II","link":"/problems/path-sum-ii/","ac":"27.4%","difficulty":"Medium","description":"<p>\r\nGiven a binary tree and a sum, find all root-to-leaf paths where each path&apos;s sum equals the given sum.\r\n</p><p>\r\nreturn<br>\r\n<pre>\r\n[\r\n   [5,4,11,2],\r\n   [5,8,4,5]\r\n]\r\n</pre>\r\n</p>"}

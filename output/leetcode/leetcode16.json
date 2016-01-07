@@ -1,0 +1,1 @@
+{"id":"16","name":"3Sum Closest","link":"/problems/3sum-closest/","ac":"28.0%","difficulty":"Medium","description":"<p>Given an array <i>S</i> of <i>n</i> integers, find three integers in <i>S</i> such that the sum is closest to a given number, target. Return the sum of the three integers. You may assume that each input would have exactly one solution.</p>"}

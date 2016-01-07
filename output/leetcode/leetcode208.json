@@ -1,0 +1,1 @@
+{"id":"208","name":"Implement Trie (Prefix Tree)","link":"/problems/implement-trie-prefix-tree/","ac":"25.0%","difficulty":"Medium","description":"<p>\r\nImplement a trie with <code>insert</code>, <code>search</code>, and <code>startsWith</code> methods.\r\n</p><p>\r\n<b>Note:</b><br>\r\nYou may assume that all inputs are consist of lowercase letters <code>a-z</code>.\r\n</p>"}

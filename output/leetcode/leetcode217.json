@@ -1,0 +1,1 @@
+{"id":"217","name":"Contains Duplicate","link":"/problems/contains-duplicate/","ac":"39.5%","difficulty":"Easy","description":"<p>\r\nGiven an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.\r\n</p>"}

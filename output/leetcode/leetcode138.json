@@ -1,0 +1,1 @@
+{"id":"138","name":"Copy List with Random Pointer","link":"/problems/copy-list-with-random-pointer/","ac":"25.8%","difficulty":"Hard","description":"<p>\r\nA linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.\r\n</p><p>\r\nReturn a deep copy of the list.\r\n</p>"}

@@ -1,0 +1,1 @@
+{"id":"67","name":"Add Binary","link":"/problems/add-binary/","ac":"26.0%","difficulty":"Easy","description":"<p>\r\nGiven two binary strings, return their sum (also a binary string).\r\n</p><p>\r\nFor example,<br>\r\na = <code>&quot;11&quot;</code><br>\r\nb = <code>&quot;1&quot;</code><br>\r\nReturn <code>&quot;100&quot;</code>.\r\n</p>"}

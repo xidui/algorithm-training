@@ -1,0 +1,1 @@
+{"id":"7","name":"Reverse Integer","link":"/problems/reverse-integer/","ac":"23.5%","difficulty":"Easy","description":"<p>Reverse digits of an integer.</p><p>\r\n<b>Example1:</b> x =  123, return  321<br>\r\n<b>Example2:</b> x = -123, return -321\r\n</p><p><a href=\"#\" onclick=\"showSpoilers(this); return false;\">click to show spoilers.</a></p>"}

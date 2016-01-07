@@ -1,0 +1,1 @@
+{"id":"77","name":"Combinations","link":"/problems/combinations/","ac":"32.7%","difficulty":"Medium","description":"<p>\r\nGiven two integers <i>n</i> and <i>k</i>, return all possible combinations of <i>k</i> numbers out of 1 ... <i>n</i>.\r\n</p><p>\r\nFor example,<br>\r\nIf <i>n</i> = 4 and <i>k</i> = 2, a solution is:\r\n</p>"}

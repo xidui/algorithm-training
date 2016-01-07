@@ -1,0 +1,1 @@
+{"id":"106","name":"Construct Binary Tree from Inorder and Postorder Traversal","link":"/problems/construct-binary-tree-from-inorder-and-postorder-traversal/","ac":"28.0%","difficulty":"Medium","description":"<p>Given inorder and postorder traversal of a tree, construct the binary tree.</p><p><b>Note:</b><br>\r\nYou may assume that duplicates do not exist in the tree.\r\n</p>"}
