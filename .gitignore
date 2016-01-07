@@ -7,3 +7,4 @@ jsconfig.json
 
 # node
 node_modules
+npm-debug.log

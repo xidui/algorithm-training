@@ -9,6 +9,7 @@
     "crawler": "^0.4.3"
   },
   "scripts": {
+    "crawl": "node crawler/leetcode.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

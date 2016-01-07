@@ -26,7 +26,6 @@ c.queue({
         , difficulty = $(problem).find('td').eq(4).text();
 
       if (!id) return;
-      if (id > 154) return;
 
       problems[id] = {
         id: id,
@@ -57,12 +56,15 @@ c.queue({
     writeFile('leetcode.json', problems);
 
     function writeFile(fileName, content) {
-      console.log('write file: leetcode.json');
-      fs.stat('../output', function(err, stat) {
-        if (err && err.errno === -2) fs.mkdirSync('../output');
-        fs.writeFile('../output/' + fileName, JSON.stringify(content), function (err) {
-          if (err) throw err;
-          console.log('It\'s saved!');
+      console.log('write file: ' + fileName);
+      fs.stat('./output', function(err, stat) {
+        if (err && err.errno === -2) fs.mkdirSync('./output');
+        fs.stat('./output/leetcode', function(err, stat) {
+          if (err && err.errno === -2) fs.mkdirSync('./output/leetcode');
+          fs.writeFile('./output/leetcode/' + fileName, JSON.stringify(content), function (err) {
+            if (err) throw err;
+            console.log('./output/leetcode/' + fileName + ' saved!');
+          });
         });
       });
     }
