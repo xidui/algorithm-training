@@ -1,0 +1,32 @@
+{
+  "name": "algorithm-training",
+  "version": "0.1.0",
+  "description": "algorithm solutions for some OJ platforms",
+  "dependencies": {
+    "crawler": "^0.4.3"
+  },
+  "devDependencies": {
+    "crawler": "^0.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xidui/algorithm-training.git"
+  },
+  "keywords": [
+    "algorithm",
+    "OJ",
+    "leetcode"
+  ],
+  "author": [
+    "xidui",
+    "JerryZou"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xidui/algorithm-training/issues"
+  },
+  "homepage": "https://github.com/xidui/algorithm-training#readme"
+}

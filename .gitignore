@@ -4,3 +4,6 @@
 # Visual Studio Code config
 .vscode
 jsconfig.json
+
+# node
+node_modules
