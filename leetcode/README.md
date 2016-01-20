@@ -81,3 +81,4 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | [✓](./Bulb%20Switcher/solution.cpp)
 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [✓](./Coin%20Change/solution.cpp)
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Easy | [✓](./Odd%20Even%20Linked%20List/solution.cpp)
+329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Medium | [✓](./Longest%20Increasing%20Path%20in%20a%20Matrix/solution.cpp)
