@@ -1,9 +1,9 @@
 # leetcode solutions
 
-Problem Id | Title | Difficulty | C++ | Js | Java | Python
+Problem Id | Title | Difficulty | C++ | Js | Java | Python | Golang
 :---: | --- | :---: | --- | --- | --- | --- |
-1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Medium | | [✓](./Two%20Sum/solution.js)
-2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | | [✓](./Add%20Two%20Numbers/solution.js)
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Medium | | [✓](./Two%20Sum/solution.js) | | | [✓](./Two%20Sum/solution.go)
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | | [✓](./Add%20Two%20Numbers/solution.js) | | | [✓](./Add%20Two%20Numbers/solution.go)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [✓](./Longest%20Substring%20Without%20Repeating%20Characters/solution.cpp) | [✓](./Longest%20Substring%20Without%20Repeating%20Characters/solution.js)
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [✓](./Median%20of%20Two%20Sorted%20Arrays/solution.cpp) | [✓](./Median%20of%20Two%20Sorted%20Arrays/solution.js)
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [✓](./Longest%20Palindromic%20Substring/solution.cpp) | [✓](./Longest%20Palindromic%20Substring/solution.js)
