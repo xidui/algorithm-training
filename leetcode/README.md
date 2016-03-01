@@ -1,7 +1,7 @@
 # leetcode solutions
 
 Problem Id | Title | Difficulty | C++ | Js | Java | Python | Golang
-:---: | --- | :---: | --- | --- | --- | --- |
+:---: | --- | :---: | --- | --- | --- | --- | --- |
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Medium | | [✓](./Two%20Sum/solution.js) | | | [✓](./Two%20Sum/solution.go)
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | | [✓](./Add%20Two%20Numbers/solution.js) | | | [✓](./Add%20Two%20Numbers/solution.go)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [✓](./Longest%20Substring%20Without%20Repeating%20Characters/solution.cpp) | [✓](./Longest%20Substring%20Without%20Repeating%20Characters/solution.js)
