@@ -29,6 +29,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python | Golang
 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | Medium | [✓](./Search%20for%20a%20Range/solution.cpp) | [✓](./Search%20for%20a%20Range/solution.js)
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Easy | | [✓](./Valid%20Sudoku/solution.js)
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | | | | [✓](./First%20Missing%20Positive/solution.py)
+50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | | | | | [✓](./Pow(x,%20n)/solution.go)
 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [✓](./N-Queens/solution.cpp)
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [✓](./N-Queens%20II/solution.cpp)
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | | [✓](./Unique%20Paths/solution.js)
