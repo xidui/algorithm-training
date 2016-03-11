@@ -87,4 +87,5 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python | Golang
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Easy | [✓](./Odd%20Even%20Linked%20List/solution.cpp)
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Medium | [✓](./Longest%20Increasing%20Path%20in%20a%20Matrix/solution.cpp)
 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Medium | [✓](./Patching%20Array/solution.cpp)
-331 | [Verify Preorder Serialization of a Binary Tree]() | Medium | | | | [✓](./Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py) |
+331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | Medium | | | | [✓](./Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py) |
+335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | Medium | [✓](./Self%20Crossing/solution.cpp)
