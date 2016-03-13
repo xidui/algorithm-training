@@ -88,5 +88,6 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python | Golang
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Medium | [✓](./Longest%20Increasing%20Path%20in%20a%20Matrix/solution.cpp)
 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Medium | [✓](./Patching%20Array/solution.cpp)
 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | Medium | | | | [✓](./Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/solution.py) |
+334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [✓](./Increasing%20Triplet%20Subsequence/solution.cpp) | | | [✓](./Increasing%20Triplet%20Subsequence/solution.py) |
 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | Medium | [✓](./Self%20Crossing/solution.cpp)
 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | [✓](./House%20Robber%20III/solution.cpp)
