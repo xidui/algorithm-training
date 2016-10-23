@@ -7,7 +7,7 @@ class Solution(object):
         """
         list = []
         dic = {}
-        
+        $
         for c in p:
             if dic.has_key(c):
                 dic[c] += 1
@@ -17,11 +17,12 @@ class Solution(object):
         numToBeZero = len(dic)
         
         for index in range(len(s)):
+			$ push on right
             if dic.has_key(s[index]):
                 dic[s[index]] -= 1
                 if dic[s[index]] == 0:
                     numToBeZero -= 1
-                    
+            $ push on left        
             if index >= len(p) and dic.has_key(s[index - len(p)]):
                 if dic[s[index - len(p)]] == 0:
                     numToBeZero += 1
