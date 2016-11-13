@@ -92,3 +92,7 @@ Problem Id | Title | Difficulty | C++ | Js | Java | Python | Golang
 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | Medium | [✓](./Self%20Crossing/solution.cpp)
 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | [✓](./House%20Robber%20III/solution.cpp)
 438 | [Find All Anagrams in a String](https://leetcode.com/contest/10/problems/find-all-anagrams-in-a-string/) | Easy | | | | [✓](./Find%20All%20Anagrams%20in%20a%20String/solution.py) |
+454 | [4Sum II](https://leetcode.com/contest/smarking-algorithm-contest-4/problems/4sum-ii/) | Medium | | | [✓](./4Sum%20II/solution.java) | |
+455 | [Assign Cookies](https://leetcode.com/contest/smarking-algorithm-contest-4/problems/assign-cookies/) | Easy | | | [✓](./Assign%20Cookies/solution.java) | |
+456 | [132 Pattern](https://leetcode.com/contest/smarking-algorithm-contest-4/problems/132-pattern/) | Medium | | | | [✓](./132%20Pattern/solution.py) |
+459 | [Repeated Substring Pattern](https://leetcode.com/contest/smarking-algorithm-contest-4/problems/repeated-substring-pattern/) | Easy | | | [✓](./Repeated%20Substring%20Pattern/solution.java) | |
